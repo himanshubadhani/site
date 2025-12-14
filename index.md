@@ -57,7 +57,7 @@
         </li>
       </ul>
       <p class="more">
-        For a full list of publications, see the <a href="https://scholar.google.com/citations?user=2b1W1P0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a>. :contentReference[oaicite:6]{index=6}
+        For a full list of publications, see the <a href="https://scholar.google.com/citations?user=2b1W1P0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar profile</a>.
       </p>
     </section>
 
