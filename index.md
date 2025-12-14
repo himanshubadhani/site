@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -28,7 +27,7 @@
       <h2>About</h2>
       <p>
         Researcher working on quantum dynamics, non-Hermitian quantum systems, quantum walks and
-        aspects of quantum information. (Info pulled from Google Scholar profile.) :contentReference[oaicite:4]{index=4}
+        aspects of quantum information.
       </p>
     </section>
 
