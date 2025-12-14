@@ -33,7 +33,7 @@
 
     <section id="publications">
       <h2>Selected publications</h2>
-      <p class="note">List based on Google Scholar (selected recent works). :contentReference[oaicite:5]{index=5}</p>
+      <p class="note">Recent publications/preprints</p>
       <ul class="pub-list">
         <li>
           <strong>Improvement in quantum communication using quantum switch</strong><br />
