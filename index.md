@@ -64,7 +64,7 @@
     <section id="contact">
       <h2>Contact</h2>
       <p>
-        Verified email domain shown on profile: <code>@imsc.res.in</code>. For exact contact details use the profile or institutional page. :contentReference[oaicite:7]{index=7}
+        himanshubadhani @ gmail.com
       </p>
     </section>
   </main>
