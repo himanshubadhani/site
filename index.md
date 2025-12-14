@@ -64,7 +64,7 @@
     <section id="contact">
       <h2>Contact</h2>
       <p>
-        himanshubadhani @ gmail.com
+        himanshubadhani@gmail.com
       </p>
     </section>
   </main>
