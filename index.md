@@ -12,8 +12,8 @@
       <img src="images/profile.jpg" alt="Himanshu Badhani" class="avatar" />
       <div>
         <h1>Himanshu Badhani</h1>
-        <p class="affil">Institute of Mathematical Sciences — Faculty of Theoretical Physics</p>
-        <p class="tagline">Research interests: Quantum physics, non-Hermitian systems, quantum information.</p>
+        <p class="affil">International Institute of Information Technology, Hyderabad</p>
+        <p class="tagline">Research interests: Quantum information, qauntum thermodynamics, non-Hermitian systems.</p>
         <p class="links">
           <a href="https://scholar.google.com/citations?user=2b1W1P0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
           <!-- add other links here -->
