@@ -26,8 +26,7 @@
     <section id="about">
       <h2>About</h2>
       <p>
-        Researcher working on quantum dynamics, non-Hermitian quantum systems, quantum walks and
-        aspects of quantum information.
+       I am interested in understanding the dynamics of open quantum systems, which interact with an environment as they evolve. I use tools from information theory, thermodynamics, and operator algebras to understand such dynamics under certain constraints, e.g., when the system is interacting with a thermal bath, or when the gains and losses in the amplitudes are "balanced".
       </p>
     </section>
 
